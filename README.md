@@ -20,12 +20,12 @@ Above link not working? You can visit the [./archive](https://github.com/Invents
 
 ## How do I install this?
 
-Just download the ZXP and install it with **[ZXP Installer]**(https://zxpinstaller.com/)
+Just download the ZXP and install it with [ZXP Installer](https://zxpinstaller.com/)
 
 ## How do I download this?
 
 Download it from the Release page  
-**[Download Zxp Release]**(https://github.com/Felzow47/snatch-audio-mod/releases)
+[Download Zxp Release](https://github.com/Felzow47/snatch-audio-mod/releases)
 
 ## Does this support **\_\_\_\_\_\_**?
 
