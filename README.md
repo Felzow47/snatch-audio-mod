@@ -20,7 +20,7 @@ Above link not working? You can visit the [./archive](https://github.com/Invents
 
 ## How do I install this?
 
-Just download the ZXP and install it with [ZXP Installer](https://zxpinstaller.com/)
+Just download the ZXP from [Release page](https://github.com/Felzow47/snatch-audio-mod/releases) and install it with [ZXP Installer](https://zxpinstaller.com/)
 
 ## How do I download this?
 
