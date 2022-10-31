@@ -221,8 +221,8 @@ export default {
     },
     outputPath() {
       // @NOTE - Could be replaced with dynamic formats, but it might be too taking things a bit too far
-      return `${this.outputFolder}/${this.title}.mp${
-        this.audioOnly ? "4" : "5"
+      return `${this.outputFolder}/${this.title}.m${
+        this.audioOnly ? "4a" : "p4"
       }`;
     },
   },

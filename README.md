@@ -1,4 +1,4 @@
-# snatch
+# snatch-audio-mod 
 
 Inject Youtube videos directly into Premiere Pro and After Effects
 
@@ -20,11 +20,12 @@ Above link not working? You can visit the [./archive](https://github.com/Invents
 
 ## How do I install this?
 
-[Check out an explanation here](https://help.battleaxe.co/overlord/#installation).
+Just download the ZXP and install it with **[ZXP Installer]**(https://zxpinstaller.com/)
 
 ## How do I download this?
 
-Putting the user agreement above in [niram](https://niram.org/read/) gives an estimated reading time of 41 seconds. This tool is free, [please take less than a minute to read the user agreement](#mandatory-user-agreement).
+Download it from the Release page  
+**[Download Zxp Release]**(https://github.com/Felzow47/snatch-audio-mod/releases)
 
 ## Does this support **\_\_\_\_\_\_**?
 
@@ -37,6 +38,8 @@ Theoretically, but it's something I'd need to devote a lot of time to because yt
 ## Can I download audio only?
 
 As of v1.1, there are new settings that allow you to Snatch the best audio, best video, or (when both are disabled) snatch the default best combination up to 720p.
+
+and with the mp3 fix you can download audio only without import error with the mp4 audio (I would probably change it later by m4a)
 
 ## Is this sketchy?
 
