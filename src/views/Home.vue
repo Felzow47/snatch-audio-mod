@@ -108,7 +108,7 @@ export default {
     channelName: "",
     outputFolder: "",
     totalChunkSize: 0,
-    addedAudioChunks: false,
+    addedAudioChunks: true,
     addedVideoChunks: false,
     hasDownloaded: false,
     isDownloading: false,
@@ -280,10 +280,13 @@ export default {
         return { quality: videoFormats[0].itag };
       } else if (this.audioOnly) {
         let audioFormats = ytdl
-          .filterFormats(info.formats, "audioonly")
-          .filter((format) => /mp4/i.test(format.codecs))
-          .sort((a, b) => b.audioBitrate - a.audioBitrate);
-        return { quality: audioFormats[0].itag };
+        .filterFormats(info.formats, "audioonly")
+        .filter(
+            (format) =>
+              format.container == "m4a" &&
+              format.hasVideo == false &&
+              format.itag !== 141
+        )
       } else
         return {
           filter: "audioandvideo",
