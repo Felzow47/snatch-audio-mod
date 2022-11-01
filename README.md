@@ -19,7 +19,7 @@ This is not a means to promote or facilitate piracy. This is a personal tool I'v
 
 ## How do I install this?
 
-Just download the ZXP from [Release page](https://github.com/Felzow47/snatch-audio-mod/releases) and install it with [ZXP Installer](https://zxpinstaller.com/)
+Just download the ZXP from [Release page](https://github.com/Felzow47/snatch-audio-mod/releases) and install it with [ZXP Installer by Elements](https://zxpinstaller.com/) or [ZXP Install by aescripts](https://aescripts.com/learn/zxp-installer/)
 
 ## How do I download this?
 
