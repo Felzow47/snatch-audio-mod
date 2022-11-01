@@ -108,7 +108,7 @@ export default {
     channelName: "",
     outputFolder: "",
     totalChunkSize: 0,
-    addedAudioChunks: true,
+    addedAudioChunks: false,
     addedVideoChunks: false,
     hasDownloaded: false,
     isDownloading: false,
@@ -221,8 +221,8 @@ export default {
     },
     outputPath() {
       // @NOTE - Could be replaced with dynamic formats, but it might be too taking things a bit too far
-      return `${this.outputFolder}/${this.title}.m${
-        this.audioOnly ? "ov" : "p4"
+      return `${this.outputFolder}/${this.title}.mp${
+        this.audioOnly ? "3" : "4"
       }`;
     },
   },
@@ -280,13 +280,10 @@ export default {
         return { quality: videoFormats[0].itag };
       } else if (this.audioOnly) {
         let audioFormats = ytdl
-        .filterFormats(info.formats, "audioonly")
-        .filter(
-            (format) =>
-              format.container == "m4a" &&
-              format.hasVideo == false &&
-              format.itag !== 141
-        )
+          .filterFormats(info.formats, "audioonly")
+          .filter((format) => /mp4/i.test(format.codecs))
+          .sort((a, b) => b.audioBitrate - a.audioBitrate);
+        return { quality: audioFormats[0].itag };
       } else
         return {
           filter: "audioandvideo",
