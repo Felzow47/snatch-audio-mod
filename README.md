@@ -10,9 +10,8 @@ Inject Youtube videos directly into Premiere Pro and After Effects
 
 This is not a means to promote or facilitate piracy. This is a personal tool I've found that I could use for practicing my own video editing using **legal** content or Fair Use contexts, and by using this tool you're agreeing to my definition of a Good Faith principle: _I've built something that I offer you for free and which could be used for either good or evil, but we both agree to choose good instead of evil and when you willingly go against this it doesn't make you clever or savvy, it makes you a bad person._ If you _were_ so clever, you could and would've made it yourself.
 
-## [By clicking this link and downloading the ZXP you're agreeing to the above and that you are solely responsible for any and all legal implications of this tool](https://github.com/Inventsable/snatch/raw/master/archive/snatch_1.3.0.zxp)
+## [By clicking this link and downloading the ZXP you're agreeing to the above and that you are solely responsible for any and all legal implications of this tool](https://github.com/Felzow47/snatch-audio-mod/releases)
 
-Above link not working? You can visit the [./archive](https://github.com/Inventsable/snatch/tree/master/archive) folder of this repo to see all versions at any time. Click the bottom-most .zxp then press the Download or View Raw button to get it.
 
 ---
 
@@ -39,8 +38,7 @@ Theoretically, but it's something I'd need to devote a lot of time to because yt
 
 As of v1.1, there are new settings that allow you to Snatch the best audio, best video, or (when both are disabled) snatch the default best combination up to 720p.
 
-and with the mp3 fix you can download audio only without import error with the mp4 audio (I would probably change it later by m4a)
-
+and with the mp3 fix you can download audio only without import error with the wav "auto renamer" 
 ## Is this sketchy?
 
 I designed the tool I wanted to use because I was tired of relying on sketchy websites or programs I couldn't trust only to import fair use content into PPRO any way. If it were sketchy, I wouldn't be putting all the exposed source code on my Github profile with my real name, credentials, and contact information. I've nothing to hide and there will never be any kind of advertising or file injection via this tool provided it isn't modified and distributed by someone other than me.
