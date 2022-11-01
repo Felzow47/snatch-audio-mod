@@ -10,7 +10,7 @@ Inject Youtube videos directly into Premiere Pro and After Effects
 
 This is not a means to promote or facilitate piracy. This is a personal tool I've found that I could use for practicing my own video editing using **legal** content or Fair Use contexts, and by using this tool you're agreeing to my definition of a Good Faith principle: _I've built something that I offer you for free and which could be used for either good or evil, but we both agree to choose good instead of evil and when you willingly go against this it doesn't make you clever or savvy, it makes you a bad person._ If you _were_ so clever, you could and would've made it yourself.
 
-## [By clicking this link and downloading the ZXP you're agreeing to the above and that you are solely responsible for any and all legal implications of this tool](https://github.com/Felzow47/snatch-audio-mod/edit/master/README.md#faq)
+## [By clicking this link and downloading the ZXP you're agreeing to the above and that you are solely responsible for any and all legal implications of this tool](https://github.com/Felzow47/snatch-audio-mod/releases)
 
 
 ---
@@ -19,7 +19,7 @@ This is not a means to promote or facilitate piracy. This is a personal tool I'v
 
 ## How do I install this?
 
-For the moment there is no ZXP so download the **beta version** from [here](https://raw.githubusercontent.com/Felzow47/snatch-audio-mod/master/Beta/BetaV0.zip) 
+For the moment there is no ZXP so download the **beta version** from [here](https://github.com/Felzow47/snatch-audio-mod/releases) 
 
 On **Windows** Goto in ```C:\Program Files\Common Files\Adobe\CEP\extensions``` Create a folder named ```com.snatchaudio.panel``` drag and drop all the file from the zip in the folder you just created 
 
@@ -29,7 +29,7 @@ On **Windows** Goto in ```C:\Program Files\Common Files\Adobe\CEP\extensions``` 
 
 ## How do I download this?
 
-No release for the moment the **beta** download is [here](https://raw.githubusercontent.com/Felzow47/snatch-audio-mod/master/Beta/BetaV0.zip)
+No real release for the moment the **beta** download is [here](https://github.com/Felzow47/snatch-audio-mod/releases)
 
 ~Download it from the Release page  
 [Download Zxp Release](https://github.com/Felzow47/snatch-audio-mod/releases)~
