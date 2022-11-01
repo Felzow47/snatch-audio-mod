@@ -1,4 +1,5 @@
 # snatch-audio-mod 
+**thx @Inventsable for this base project.**
 
 Inject Youtube videos directly into Premiere Pro and After Effects
 
