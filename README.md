@@ -1,3 +1,9 @@
+##DON'T INSTALL IT IS BROKEN FOR NOW 
+
+if you installed it and get your premiere pro broken
+goto ```C:\Users\%USERNAME%\AppData\Local\Temp``` and cut the folder named ```Adobe``` and paste it on desktop just for be sure and your premiere pro is fixed
+
+
 # snatch-audio-mod 
 thx [@Inventsable](https://github.com/Inventsable) for this base project
 
